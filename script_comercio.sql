@@ -103,4 +103,6 @@ CREATE PROCEDURE updateProducto(
 END
 //DELIMITER ;
 
+----
+
 
